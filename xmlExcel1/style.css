@@ -1,0 +1,31 @@
+body{
+	background: #fff;
+	color: #777;
+	font-family:Open Sans;
+}
+
+h1, h2, h3, h4, h5, h6{
+	color: #555;
+}
+
+.row, .container, .row-fluid, .container-fluid{
+    text-align: center;
+    margin: 10px auto;
+}
+
+.form-group{
+    border:0;
+}
+
+.form-control{
+    max-width: 40%;
+    min-width:200px;
+    height: 40px;
+    border:2px solid #555;
+}
+
+.error{
+    color:rgb(15, 99, 124);
+    font-weight: bold;
+    list-style: none;
+}

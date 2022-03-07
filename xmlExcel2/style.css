@@ -1,0 +1,41 @@
+body{
+	background: #fff;
+	color: #777;
+	font-family:Open Sans;
+}
+
+h1, h2, h3, h4, h5, h6{
+	color: #555;
+}
+
+.row, .container, .row-fluid, .container-fluid{
+    text-align: center;
+    margin: 10px auto;
+}
+
+.group{
+    border:1px solid #888;
+    float: left;
+    width: 30%;
+    padding: 0 2%;
+    border-radius: 3px;
+    margin: 10px 33%;        
+}
+
+.groups{
+    float: left;
+    width: 30%;
+    padding: 0 2%;
+    border-radius: 3px;
+    margin: 10px 33%;        
+}
+
+.elements{
+    float: left;
+}
+
+.error{
+    color:rgb(15, 99, 124);
+    font-weight: bold;
+    list-style: none;
+}
